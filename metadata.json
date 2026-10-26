@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect – Cloud-Based College Event Management System",
+  "description": "Full-stack cloud-based college event management platform featuring Bento grid dashboards, role-based workflows for students, organizers, faculty, and admins, QR check-ins, certificate issuance, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
